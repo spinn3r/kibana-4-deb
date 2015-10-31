@@ -7,7 +7,7 @@
 
     <groupId>kibana</groupId>
     <artifactId>kibana</artifactId>
-    <version>4.1.2</version>
+    <version>4.2.0</version>
 
     <dependencies>
 
@@ -15,14 +15,14 @@
 
     <properties>
 
-        <package.fullversion>kibana-4.1.2</package.fullversion>
+        <package.fullversion>kibana-4.2.0</package.fullversion>
         <package.installdir>/usr/share/kibana</package.installdir>
 
         <download.url>http://download.elastic.co/kibana/kibana/</download.url>
-        <download.filename>kibana-4.1.2-linux-x64.tar.gz</download.filename>
+        <download.filename>kibana-4.2.0-linux-x64.tar.gz</download.filename>
 
         <!-- the first directory in the tar.gz -->
-        <download.tar.dir>kibana-4.1.2-linux-x64</download.tar.dir>
+        <download.tar.dir>kibana-4.2.0-linux-x64</download.tar.dir>
 
     </properties>
 
